@@ -1,8 +1,8 @@
 function main(){
     // only change code above this line
-    var lastName="Doe";
+    var lastName = "Doe";
     var lastNameLength;
-    lastNameLength=lastName.length;
+    lastNameLength = lastName.length;
     // only change code above this line
     return lastNameLength;
 }

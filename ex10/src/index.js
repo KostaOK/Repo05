@@ -1,8 +1,8 @@
 function main(){
     // only change code above this line
-    var lastName="Doe";
-    var firstLetterOfLastName="";
-    firstLetterOfLastName=lastName[0];
+    var lastName = "Doe";
+    var firstLetterOfLastName = "";
+    firstLetterOfLastName = lastName[0];
     // only change code above this line
     return firstLetterOfLastName;
 }

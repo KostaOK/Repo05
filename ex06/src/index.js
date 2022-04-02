@@ -1,7 +1,7 @@
 function main(){
     // only change code above this line
-    var myString="Concatenation is the process of appending ";
-    myString+="one string to the end of another string.";
+    var myString = "Concatenation is the process of appending ";
+    myString += "one string to the end of another string.";
     // only change code above this line
     return myString;
 }

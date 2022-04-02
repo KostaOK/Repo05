@@ -1,7 +1,7 @@
 function main(){
     // only change code above this line
-    var lastName="Tesla";
-    var thirdLetterofLastName=lastName[2];
+    var lastName = "Tesla";
+    var thirdLetterofLastName = lastName[2];
     // only change code above this line
     return thirdLetterofLastName;
 }
